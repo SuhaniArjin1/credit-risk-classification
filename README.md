@@ -7,15 +7,15 @@ The Purpose of this analysis is to determine the credit worthiness of borrowers 
 ## Variables
 The variables used to predict the creditworthiness of the borrower are:
    
-    **Loan size**: how much they got a loan for in dollar amount
+    Loan size: how much they got a loan for in dollar amount
     
-    **Interest rate**: the inerest rate of that loan
+    Interest rate: the inerest rate of that loan
     
-    **Income**: the borrowers income
+    Income: the borrowers income
     
-    **Debt to Income Ratio**: how much debt the borrower had compared to their income (belowe 43% is usually considered good but different lenders have different standards)
+    Debt to Income Ratio: how much debt the borrower had compared to their income (belowe 43% is usually considered good but different lenders have different standards)
     
-    **Number of Accounts**: The number of accounts the borrower has (different lenders have different standards but 3-5 accounts are usually considered good. These accounts can be a mix of credit cards and loans)
+    Number of Accounts: The number of accounts the borrower has (different lenders have different standards but 3-5 accounts are usually considered good. These accounts can be a mix of credit cards and loans)
     
     **Derogatory marks**: The count of negative items listed on your credit report such as late payments or foreclosure
     
